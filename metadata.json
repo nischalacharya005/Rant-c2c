@@ -1,0 +1,6 @@
+{
+  "name": "Rant C2C App Builder",
+  "description": "An interactive Flutter mobile simulator, production-ready Dart code exporter, and guided step-by-step developer setup assistant for the Rant C2C rental marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
